@@ -9,7 +9,8 @@
 ![image](https://github.com/user-attachments/assets/18eefe34-f922-4cf9-9f98-f8097443123a)
 
 ## Demo Link & Team Information:
-Link: <a href="https://youtu.be/RdIQWBwR044">Click here</a>
+Video Link: <a href="https://youtu.be/RdIQWBwR044">Click here</a>
+Deployed site Link: <a href="https://ether-poc.cashapi.in/">Click here</a>
 <table>
   <tr>
     <td>Shubham Rao</td>
